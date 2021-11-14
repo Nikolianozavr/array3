@@ -1,0 +1,1 @@
+This program outputs an array of numbers. A message appears stating that we need to select a number. Number 0 sorts the array. Number 1 determines the maximum and minimum value of the array. Number 2 divides each list item into an arithmetic mean array. Number 3 multiplies each element by the arithmetic mean of the array.
